@@ -1,3 +1,5 @@
 module.exports = {
-  mongoURI: "mongodb://luke:Rebellak23@ds235431.mlab.com:35431/reactreduxsocial"
+  mongoURI:
+    "mongodb://luke:Rebellak23@ds235431.mlab.com:35431/reactreduxsocial",
+  secretOrKey: "secret"
 };
